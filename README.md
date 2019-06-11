@@ -1,7 +1,5 @@
 
-<p align="center">
 <img src="https://i.imgur.com/SqVtqM9.png" alt="alt text" width="600px" height="auto">
-</p>
 
 # Installation
 This is how you install it, thanks  [Colek38](https://www.reddit.com/user/Colek38/)  for the files!
