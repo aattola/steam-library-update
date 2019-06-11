@@ -1,5 +1,4 @@
 
-#
 <p align="center">
 <img src="https://i.imgur.com/SqVtqM9.png" alt="alt text" width="600px" height="auto">
 </p>
