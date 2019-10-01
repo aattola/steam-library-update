@@ -1,6 +1,8 @@
 
 <img src="https://i.imgur.com/SqVtqM9.png" alt="alt text" width="600px" height="auto">
 
+# This isn't relevant anymore because steam has just rolled out the new library https://store.steampowered.com/libraryupdate
+
 # Installation
 This is how you install it, thanks  [Colek38](https://www.reddit.com/user/Colek38/)  for the files!
 - Download this:  [steamui.zip](https://github.com/jeffeeeee/steam-library-update/releases/download/1.0.0/steamui.zip)
